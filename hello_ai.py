@@ -1,2 +1,1 @@
-txt = "Noppakao Kaewket (EC4) 5522771567"
-print txt
+print "Noppakao Kaewket (EC4) 5522771567"
